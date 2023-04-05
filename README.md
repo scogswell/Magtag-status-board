@@ -2,6 +2,8 @@
 
 This Circuitpython program lets you use your Adafruit MagTag (https://www.adafruit.com/product/4800) as status board display. Hang it on your office door to let your co-workers know where you are. Put it on the fridge to remind your spouse to get Cheese. I dunno do what you want I'm not your dad.
 
+![](images/IMG_0934.jpg) ![](images/IMG_0935.jpg) ![](images/IMG_0936.jpg)
+
 This program uses Adafruit IO as a backing storage for the status message. The general idea:
 
 1. Update status message through Adafruit IO (Make a nice dashboard with buttons, write your own app, use it on your phone or your desktop, whatever works for you)
